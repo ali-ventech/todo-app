@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Buy groceries",
+    "description": "Purchase milk, bread, eggs, and vegetables from the grocery store.Purchase milk, bread, eggs, and vegetables from the grocery store.Purchase milk, bread, eggs, and vegetables from the grocery store.",
+    "completed": false
+  },
+  {
+    "title": "Finish project report",
+    "description": "Complete the final report for the project and send it to the manager.Complete the final report for the project and send it to the manager.Complete the final report for the project and send it to the manager.",
+    "completed": false
+  },
+  {
+    "title": "Book dentist appointment",
+    "description": "Schedule a dental check-up appointment for next week.",
+    "completed": true
+  },
+  {
+    "title": "Call plumber",
+    "description": "Contact the plumber to fix the leaking sink in the kitchen.",
+    "completed": false
+  },
+  {
+    "title": "Workout",
+    "description": "Go to the gym for a 1-hour workout session.",
+    "completed": false
+  },
+  {
+    "title": "Read a book",
+    "description": "Read at least 50 pages of the new novel.",
+    "completed": false
+  },
+  {
+    "title": "Plan weekend trip",
+    "description": "Plan the itinerary and book accommodations for the weekend trip.",
+    "completed": true
+  },
+  {
+    "title": "Attend team meeting",
+    "description": "Join the online team meeting at 3 PM.",
+    "completed": false
+  }
+]
